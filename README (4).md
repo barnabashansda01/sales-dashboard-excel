@@ -8,7 +8,7 @@ An interactive Excel dashboard for analysing e-commerce / retail B2B sales acros
 
 | File | Description |
 |------|-------------|
-| `Data (5) (1).xlsm` | Macro-enabled Excel workbook containing the raw data, pivot tables and dashboard |
+| `Sales_Dashboard.xlsm` | Macro-enabled Excel workbook containing the raw data, pivot tables and dashboard |
 | `README.md` | Project documentation |
 
 > Tip: rename the workbook to something clean such as `Sales_Dashboard.xlsm` before uploading.
@@ -89,7 +89,7 @@ An interactive Excel dashboard for analysing e-commerce / retail B2B sales acros
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    ```
-2. Open the `.xlsm` file in **Microsoft Excel (desktop)**.
+2. Open the `Sales_Dashboard.xlsm` file in **Microsoft Excel (desktop)**.
 3. Click **Enable Content / Enable Macros** when prompted.
 4. Go to the **Dashboard** sheet and use the slicer to filter the data.
 5. To refresh after changing data: **Data → Refresh All**.
