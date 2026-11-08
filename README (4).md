@@ -130,8 +130,8 @@ An interactive Excel dashboard for analysing e-commerce / retail B2B sales acros
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
-LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+GitHub: [@your-username]((https://github.com/barnabashansda01))
+LinkedIn: [your-profile](linkedin.com/in/barnabas-hansda-546b65223)
 
 ---
 
