@@ -122,7 +122,8 @@ An interactive Excel dashboard for analysing e-commerce / retail B2B sales acros
 *Add a screenshot of the Dashboard sheet here:*
 
 ```
-![Dashboard](images/dashboard.png)
+<img width="1127" height="994" alt="Screenshot 2026-11-08 124346" src="https://github.com/user-attachments/assets/45807e6a-5a11-48ec-bae7-d32ec98b5218" />
+
 ```
 
 ---
